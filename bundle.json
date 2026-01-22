@@ -1,19 +1,11 @@
 {
-  "version": "",
-  "notes": "",
-  "pub_date": "",
+  "version": "v0.1.0",
+  "notes": "Test release version",
+  "pub_date": "2026-01-22T21:55:33+01:00",
   "platforms": {
     "linux-x86_64": {
-      "signature": "",
-      "url": ""
-    },
-    "windows-x86_64": {
-      "signature": "",
-      "url": ""
-    },
-    "darwin-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcmhFM1dTY2l2N2ZRY2sxVThtRjRCeDc0cThJb2FGdkV2UFJxVUFLbWNzcldNS0VtYTN4d0dPOXU0OS94QkFJZm4ra1RuQlJZSzJXM0k3MkZuc0x4Q2JVdkQ3VUVLOUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MTEzODMwCWZpbGU6bGlnaHRzcGVlZF8wLjEuMF9hbWQ2NC5BcHBJbWFnZQp4UnZuaVhOd0NpTjNWdEtNUS83L2dtTG0zUTErOVhzQmFJejNtU0w0aHpWZ2w0S0xMenJXc0FuZmljKzBZdGd5TTJTTllNaHZxbTArcSt6VkxTVmlDUT09Cg==",
+      "url": "https://github.com/DSKS-Unlimited/lightspeed-release/releases/download/v0.1.0/lightspeed_0.1.0_amd64.AppImage"
     }
   }
 }
