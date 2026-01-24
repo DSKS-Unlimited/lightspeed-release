@@ -1,11 +1,15 @@
 {
-  "version": "v0.1.0",
-  "notes": "Test release version",
-  "pub_date": "2026-01-22T21:55:33+01:00",
+  "version": "v0.1.1",
+  "notes": "Patch release version",
+  "pub_date": "2026-01-24T21:47:00+01:00",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcmhFM1dTY2l2N2ZRY2sxVThtRjRCeDc0cThJb2FGdkV2UFJxVUFLbWNzcldNS0VtYTN4d0dPOXU0OS94QkFJZm4ra1RuQlJZSzJXM0k3MkZuc0x4Q2JVdkQ3VUVLOUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MTEzODMwCWZpbGU6bGlnaHRzcGVlZF8wLjEuMF9hbWQ2NC5BcHBJbWFnZQp4UnZuaVhOd0NpTjNWdEtNUS83L2dtTG0zUTErOVhzQmFJejNtU0w0aHpWZ2w0S0xMenJXc0FuZmljKzBZdGd5TTJTTllNaHZxbTArcSt6VkxTVmlDUT09Cg==",
-      "url": "https://github.com/DSKS-Unlimited/lightspeed-release/releases/download/v0.1.0/lightspeed_0.1.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcmhFM1dTY2l2N1ZNSWlMSjN0V0E4MW9CM0puQU1FSHVNRG56N3kzM3hnekZjbHlHSkZDRndRWXpxU0tSUWJCOE1MQ2MrSW0xMXNHeVFEajVCaFZhY09hd3Z5SlFiUEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Mjg3NDIzCWZpbGU6bGlnaHRzcGVlZF8wLjEuMV9hbWQ2NC5BcHBJbWFnZQpUVjJtWXlTVHJFdmJ5eFVCZXhLOG5IeHFVbmZFTFMrRUFnVDB4b2ZFejN4MjRsSG1VUE5DRUhYMmhRVFh6K25ETzZySE4xVlBBdG5NQUppcjNjUnZEUT09Cg==",
+      "url": "https://github.com/DSKS-Unlimited/lightspeed-release/releases/download/v0.1.1/lightspeed_0.1.1_amd64.AppImage"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcmhFM1dTY2l2N1FDSVYweXJkRzQvRUQ0cVQrL1FsbXZ5MGlycW5lVTJNd3lLNEZSaW03c1lGaDlkbWllbDhOMjJrRWcwc1BkSjBvVTdPQWVJZW8ybmdpZ0tZOU5uNGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Mjg2OTA3CWZpbGU6bGlnaHRzcGVlZC5hcHAudGFyLmd6Ci93V0VzWmJNakRtZWlEaUhPUUF4eGFtNTYzZGFnVUloOFhjbzlaVTZLak9iOFZqVnkzU0JRQVBwU0VZUk53bGNiTkg0Umdtdk9GYy81enNPZlhsc0RnPT0K",
+      "url": "https://github.com/DSKS-Unlimited/lightspeed-release/releases/download/v0.1.1/lightspeed.app.tar.gz"
     }
   }
 }
